@@ -14,3 +14,11 @@
 <h2 align="center">  ➠ ʜᴏᴡ ᴛᴏ ɪɴsᴛᴀʟʟ ᴘʟᴜɢɪɴ
 </h1>
 <!CODED BY NINJA SER>
+### FOR PLUGIN EDITING TUTORIAL CLICK BELOW
+ <a href="https://youtu.be/9PgSQzQn5Qc"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
+   <br>
+ 
+
+ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
+<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/It0pvGAjBSZBYQzkOOzsHS)
+  <div align="center"
